@@ -1,7 +1,7 @@
 # About Me:
 👋 Hi, I'm Rehan Hasnain
 
-💻 Aspiring Data Scientist with a strong interest in Machine Learning, Deep Learning, and NLP.
+💻 Aspiring AI Engineer with a strong interest in Machine Learning, Deep Learning, and NLP.
 📊 Skilled in Python, data cleaning, and building practical data-driven projects.
 
 🚀 Currently learning and exploring:
