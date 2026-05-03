@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I'm Rehan
+👋 Hi, I'm Rehan Hasnain
 
 💻 Aspiring Data Scientist with a strong interest in Machine Learning, Deep Learning, and NLP.
 📊 Skilled in Python, data cleaning, and building practical data-driven projects.
@@ -9,13 +9,7 @@
 * Machine Learning & Time Series Analysis
 * Natural Language Processing (NLP)
 * Cloud Computing & Web Development
-
-🛠️ Tech Stack:
-
-* Python | Pandas | NumPy | Scikit-learn
-* Git & GitHub
-* Basic Flask & Web Development
-
+  
 📈 Goal: To build real-world AI solutions and grow as a professional Data Scientist.
 
 📫 Let's connect and collaborate on interesting projects!
