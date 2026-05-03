@@ -1,30 +1,25 @@
-# Hi, I'm Rehan Hasnain👋
+# About Me:
+👋 Hi, I'm Rehan
 
-> Data enthusiast · Python learner · Open-source contributor
+💻 Aspiring Data Scientist with a strong interest in Machine Learning, Deep Learning, and NLP.
+📊 Skilled in Python, data cleaning, and building practical data-driven projects.
 
-I enjoy turning messy, real-world datasets into clean, actionable insights.
-I learn by **building** — not by watching tutorials — and I'm actively looking
-for beginner-friendly projects where I can contribute and grow alongside others.
+🚀 Currently learning and exploring:
 
----
+* Machine Learning & Time Series Analysis
+* Natural Language Processing (NLP)
+* Cloud Computing & Web Development
 
-## 🔭 Currently working on
-- Data cleaning & exploratory data analysis (EDA) pipelines in Python
-- Building end-to-end data science projects from scratch
-- Contributing documentation and small features to open-source Python projects
+🛠️ Tech Stack:
 
-## 🌱 Currently learning
-- Machine learning fundamentals & core algorithms
-- Pandas, NumPy, Matplotlib, Seaborn
-- TensorFlow & deep learning basics
+* Python | Pandas | NumPy | Scikit-learn
+* Git & GitHub
+* Basic Flask & Web Development
 
-## 👯 Looking to collaborate on
-- Beginner-friendly data science projects
-- Open-source Python projects (docs, small features, bug fixes)
+📈 Goal: To build real-world AI solutions and grow as a professional Data Scientist.
 
-## 🤝 Looking for help with
-- Understanding machine learning algorithms at a deeper level
-- Project structure and Python best practices
+📫 Let's connect and collaborate on interesting projects!
+
 ---
 
 ⚡ **Fun fact:** I learn best by doing, not watching. If you have a messy dataset
