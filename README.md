@@ -25,11 +25,6 @@ for beginner-friendly projects where I can contribute and grow alongside others.
 ## 🤝 Looking for help with
 - Understanding machine learning algorithms at a deeper level
 - Project structure and Python best practices
-
-## 🛠️ Tech stack
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `TensorFlow`
-`Machine Learning` `Data Cleaning` `EDA`
-
 ---
 
 ⚡ **Fun fact:** I learn best by doing, not watching. If you have a messy dataset
