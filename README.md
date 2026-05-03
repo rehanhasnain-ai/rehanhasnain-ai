@@ -6,11 +6,11 @@
 
 🚀 Currently learning and exploring:
 
-* Machine Learning & Time Series Analysis
-* Natural Language Processing (NLP)
-* Cloud Computing & Web Development
+* Machine Learning Algorithms
+* Ai Tools
+* Python
   
-📈 Goal: To build real-world AI solutions and grow as a professional Data Scientist.
+📈 Goal: To build real-world AI solutions and grow as a professional AI Engineer.
 
 📫 Let's connect and collaborate on interesting projects!
 
@@ -38,5 +38,3 @@ or a repo that needs a helping hand — let's connect!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rehanhasnain-ai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
