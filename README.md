@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hi, I'm Rehan 👋
+# Hi, I'm Rehan Hasnain👋
 
 > Data enthusiast · Python learner · Open-source contributor
 
