@@ -1,23 +1,18 @@
-# About Me:
-👋 Hi, I'm Rehan Hasnain
+👋 Hi, I'm Rehan
 
-💻 Aspiring AI Engineer with a strong interest in Machine Learning, Deep Learning, and NLP.
+💻 Aspiring Data Scientist with a strong interest in Machine Learning, Deep Learning, and NLP.
 📊 Skilled in Python, data cleaning, and building practical data-driven projects.
 
 🚀 Currently learning and exploring:
 
-* Machine Learning Algorithms
-* Ai Tools
-* Python
-  
-📈 Goal: To build real-world AI solutions and grow as a professional AI Engineer.
+* Machine Learning & Time Series Analysis
+* Natural Language Processing (NLP)
+* Cloud Computing & Web Development
+
+📈 Goal: To build real-world AI solutions and grow as a professional Data Scientist.
 
 📫 Let's connect and collaborate on interesting projects!
 
----
-
-⚡ **Fun fact:** I learn best by doing, not watching. If you have a messy dataset
-or a repo that needs a helping hand — let's connect!
 
 
 ## 🌐 Socials:
