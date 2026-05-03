@@ -1,5 +1,40 @@
 # 💫 About Me:
-I am currently working on Data cleaning and exploratory data analysis using Python<br>I am looking to collaborator on Beginner-friendly data science projects and Open-source Python Projects(documentation or small features)<br>I am looking for help with Understanding machine learning algorithms deeply and Projects structure and best practice<br>I am currently learning Python for data analysis, Machine Learning fundamentals, Pandas ,Numpy,Matplotlib,Seaborn,Tensorflow<br>Python Basic ,Data cleaning techniques ,Pandas operation<br>I enjoy turning messy datasets into clean insight, I learn better by building projects, not to watching endless tutorial
+# Hi, I'm Rehan 👋
+
+> Data enthusiast · Python learner · Open-source contributor
+
+I enjoy turning messy, real-world datasets into clean, actionable insights.
+I learn by **building** — not by watching tutorials — and I'm actively looking
+for beginner-friendly projects where I can contribute and grow alongside others.
+
+---
+
+## 🔭 Currently working on
+- Data cleaning & exploratory data analysis (EDA) pipelines in Python
+- Building end-to-end data science projects from scratch
+- Contributing documentation and small features to open-source Python projects
+
+## 🌱 Currently learning
+- Machine learning fundamentals & core algorithms
+- Pandas, NumPy, Matplotlib, Seaborn
+- TensorFlow & deep learning basics
+
+## 👯 Looking to collaborate on
+- Beginner-friendly data science projects
+- Open-source Python projects (docs, small features, bug fixes)
+
+## 🤝 Looking for help with
+- Understanding machine learning algorithms at a deeper level
+- Project structure and Python best practices
+
+## 🛠️ Tech stack
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `TensorFlow`
+`Machine Learning` `Data Cleaning` `EDA`
+
+---
+
+⚡ **Fun fact:** I learn best by doing, not watching. If you have a messy dataset
+or a repo that needs a helping hand — let's connect!
 
 
 ## 🌐 Socials:
