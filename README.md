@@ -7,7 +7,6 @@ Right now, I’m sharpening my skills in areas like:
 
 * Machine Learning & Deep Learning
 * Natural Language Processing (NLP)
-* Time Series Analysis
 * Backend Development for AI applications
 
 I believe in consistency over hype. Every project here reflects my progress toward becoming a skilled AI Engineer.
